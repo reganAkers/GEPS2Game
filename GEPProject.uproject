@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{9B11CECD-4FE8-CA3E-45F1-0291340DFC5E}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GEPProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
